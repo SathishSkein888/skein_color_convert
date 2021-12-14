@@ -1,4 +1,4 @@
-import 'package:skein_color_convert/color_convert.dart';
+import 'package:skein_color_convert/skein_color_convert.dart';
 import 'package:skein_color_convert/src/color_name.dart';
 import 'package:test/test.dart';
 

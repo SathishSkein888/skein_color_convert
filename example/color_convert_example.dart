@@ -1,4 +1,4 @@
-import 'package:skein_color_convert/color_convert.dart';
+import 'package:skein_color_convert/skein_color_convert.dart';
 
 void main() {
   convert.rgb.hsl(140, 200, 100); // [96, 48, 59]
